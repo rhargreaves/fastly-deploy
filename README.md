@@ -2,7 +2,7 @@
 
 A tool to assist in the deployment of updated VCL to Fastly. Provides additional verification that the new VCL has taken effect.
 
-Note: This repository is no longer updated. See https://github.com/7digital/fastly-deploy for a more up-to-date and actively maintained version of this app.
+**Note: This repository is no longer updated. See https://github.com/7digital/fastly-deploy for a more up-to-date and actively maintained version of this app.**
 
 ## Usage
 ```
